@@ -1,7 +1,7 @@
 Hi, I’m @EdwFa  - 👋
 I am interested in applied botany - 👀 
 Now, I am studying dialects of the Yoruba language (there are about 20 of them): oyo, ekiti, egba, ijebu, ijesh, ife, igbomin, onda, ovo, yagba and others... - 🌱 
-I am looking for cooperation to study the influence of the solar wind force on pathological changes in the psyche of the population living in the northern hemisphere - 💞️ 
+I am looking for partners for cooperation or colabpration in the study of influence of the solar wind force on pathological changes in the psyche of the population living in the northern hemisphere - 💞️ 
 Ask, How to reach me ? Оооо! - 📫 
 I am in touch from time to time.
 Determine the moments of visibility zones taking into account your geospatial position.
