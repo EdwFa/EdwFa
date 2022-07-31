@@ -11,9 +11,9 @@ My Orbit Options:
 - longitude of the ascending node - 42.37;
 - orbital inclination - 72.34;
 - angular distance (argument) of perigee - 35.635;
-- average anomaly - limiting value (calculated according to the formula)
-![image](https://user-images.githubusercontent.com/45067786/182017737-e2840e6b-2ba8-43da-b40a-0a786ca06a58.png)
+- average anomaly - limiting value (calculated according to the formula) 
 
+✨ special! ✨                         ![image](https://user-images.githubusercontent.com/45067786/182017975-97469f1c-b633-4eb5-8aa7-8e49035ea849.png)
 
 <!---
 EdwFa/EdwFa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
