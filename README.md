@@ -5,6 +5,7 @@
 - 📫 Ask, How to reach me ? Оооо! 
 I am in touch from time to time.
 Determine the moments of visibility zones taking into account your geospatial position.
+
 My Orbit Options:
 - semi-major axis - 524 km;
 - eccentricity - 0.32;
@@ -13,7 +14,7 @@ My Orbit Options:
 - angular distance (argument) of perigee - 35.635;
 - average anomaly - limiting value (calculated according to the formula) 
 
-✨ special! ✨                         ![image](https://user-images.githubusercontent.com/45067786/182017975-97469f1c-b633-4eb5-8aa7-8e49035ea849.png)
+✨ special for... ✨  ![image](https://user-images.githubusercontent.com/45067786/182017975-97469f1c-b633-4eb5-8aa7-8e49035ea849.png)   ✨✨✨✨✨✨✨✨ 
 
 <!---
 EdwFa/EdwFa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
